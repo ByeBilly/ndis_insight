@@ -1,0 +1,5 @@
+{
+  "name": "NDIS Insight - Phase 1 Architecture",
+  "description": "Interactive architecture specification and prototype for the model-agnostic NDIS Insight platform. Includes database schema definitions, subsystem visualization, and a functional BYO-Model abstraction layer.",
+  "requestFramePermissions": []
+}
